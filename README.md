@@ -199,7 +199,7 @@ Full schema: [`sql/schema.sql`](sql/schema.sql)
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Nana Addai]**  
 [LinkedIn](#) · [Tableau Public](#) · [Medium](#)
 
 ---
